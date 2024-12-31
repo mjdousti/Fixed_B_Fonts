@@ -1,5 +1,6 @@
 # Fixed Persian Fonts
 
-Most of free Persian fonts are not following TrueType/OpenType format properly. As a result, they are not displayed well in Microsoft Office for Mac and LaTeX. This becomes problematic when a document is rendered differently in Windows and Mac. This repo fixes Persian fonts to ensure Persian text in Mac and LaTeX are rendered similar to Windows. Before copying the fixed fonts, make sure to delete old fonts first.
+Most free Persian fonts do not fully comply with the TrueType/OpenType standards. Consequently, they may not display correctly in Microsoft Office for Mac, leading to inconsistencies when a document is viewed on Windows and Mac. This repository resolves these issues by fixing Persian fonts to ensure consistent rendering across both platforms. Before copying the corrected fonts, make sure to completly remove any existing versions of the old fonts.
+
 
 **Note:** This repo doesn't aim to fix other issues that these fonts have.
